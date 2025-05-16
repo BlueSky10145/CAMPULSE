@@ -20,9 +20,8 @@ The app will make it easier to find information, improve communication, and incr
     2.Receive event notifications
     3.Check exam results
     4.Access class timetable
-    5.View/download syllabus and notes (PDF)
-    6.Private and group messaging
-
+    5.View syllabus and notes
+  
 ```Teacher Module:```
 
     1.Manage student attendance
@@ -30,12 +29,11 @@ The app will make it easier to find information, improve communication, and incr
     3.Enter and update exam results
     4.View syllabus and timetable
     5.Upload study materials (PDF)
-    6.Private and group messaging
-
+ 
 ```Admin Panel```
 
     1.Add and manage student and teacher accounts by department.
-    2.Upload many users at once using Excel files to save time.
+   
 
 # Goal
 
