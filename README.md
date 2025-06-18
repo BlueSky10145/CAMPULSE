@@ -15,31 +15,23 @@ The platform connects customers with nearby restaurants, enabling seamless food 
 
 # MAIN FEATURES
 
-```Student Module:```
+```Users Features:```
 
-    1.View attendance records
-    2.Receive event notifications
-    3.Check exam results
-    4.Access class timetable
-    5.View syllabus and notes
+    1.Browse food items
+    2.Add to cart and place orders
+    3.Pay securely via Stripe
   
-```Teacher Module:```
+```Admin Features :```
 
-    1.Manage student attendance
-    2.Send event and announcement notifications
-    3.Enter and update exam results
-    4.View syllabus and timetable
-    5.Upload study materials (PDF)
- 
-```Admin Panel```
+    1.Add, edit, or delete food items
+    2.Manage customer orders
+    3.View sales and order analytics via dashboard
+    
 
-    1.Add and manage student and teacher accounts by department.
-   
+ # Goal
 
-# Goal
+To develop a reliable and user-friendly food delivery website that enhances customer experience and streamlines restaurant management.
 
-The goal of this project is to build a helpful mobile app that makes campus life easier for students, teachers, 
-and admins by providing attendance, results, schedules, notes, and communication all in one place.
 
 # SUBMITTED BY
 **MD RAKIB AHMED AKASH…………..2021331033<br>**
