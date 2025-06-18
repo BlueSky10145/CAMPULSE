@@ -8,11 +8,9 @@
 
 # DESCRIPTION
 
-Campulse – A smart campus app built with Flutter and Firebase to manage attendance, results, notes, events, and communication for students, teachers, and admins.
+Foodhubby is a modern, responsive food delivery web application built using the MERN Stack — MongoDB, Express.js, React.js, and Node.js — combined with CSS for styling and Stripe for secure online payments.
 
-Managing campus life, studies, and communication between students and teacherscan be difficult without one common platform. 
-This project aims to create Campulse, a simple and user-friendly mobile app that helps manage important academic tasks.
-The app will make it easier to find information, improve communication, and increase student and teacher engagement on campus.
+The platform connects customers with nearby restaurants, enabling seamless food ordering and delivery experiences. It also features an intuitive admin dashboard for efficient management of products, orders, and users, making it a complete end-to-end solution for food delivery services.
 
 
 # MAIN FEATURES
