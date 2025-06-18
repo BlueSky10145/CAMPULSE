@@ -1,6 +1,9 @@
-# CAMPULSE: ```A Cross-Platform Mobile Application for Campus Management```
+# PROJECT PROPOSAL : ```FOODHUBBY```
 
 
+# Title :
+
+```FOODHUBBY – A Full-Stack Food Delivery Website using MERN Stack```
 
 
 # DESCRIPTION
